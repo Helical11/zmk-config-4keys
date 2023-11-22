@@ -1,0 +1,9 @@
+file_format: "1"
+id: 4keys
+name: 4keys
+type: shield
+url: https://github.com/Helical11/zmk-config-4keys
+requires:
+    - seeeduino_xiao_rp2040
+features:
+    - keys

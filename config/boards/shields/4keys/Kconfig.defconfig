@@ -1,0 +1,5 @@
+if SHIELD_4KEYS
+    config ZMK_KEYBOARD_NAME
+    default "4keys"
+
+endif

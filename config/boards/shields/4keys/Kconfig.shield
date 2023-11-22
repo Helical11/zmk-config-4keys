@@ -1,0 +1,2 @@
+config SHIELD_4KEYS
+    def_bool $(shields_list_contaisn,4keys)
